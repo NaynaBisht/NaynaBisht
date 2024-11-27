@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nayna_bisht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nayna-bisht-830b2630b) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=web&logoColor=white)](https://portfolio-lime-two-83.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2304A54D.svg?logo=web&logoColor=white)](https://portfolio-lime-two-83.vercel.app/)
+
 
 
 # 💻 Tech Stack:
